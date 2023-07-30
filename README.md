@@ -29,7 +29,8 @@ Our first pretrained model we have used VGG16 and achived 75% of accuracy and te
 
 Using the pretrained model we tunned our few short siamese model to get more accuracy and tested the similar image by giving support set images of 3 and query 1 image,moddel saved.
 
-We had also pushed those models in our repository.
+
+
 
 
 
@@ -50,6 +51,10 @@ We had also pushed those models in our repository.
   git clone https://github.com/Ranjithavadivel/DSA_actionLearning_Team7.git
 
 ```
+
+-Download the model siamese_model.h5 and crop_classification_model_fine_tuned.h5 and place it inside the working folder 
+
+[Drive link](https://drive.google.com/drive/folders/1SsqNUJ0blVwc3D76WwnOFH7pth5ydeJI?usp=sharing)]
 
 - Run the webapp 
 
