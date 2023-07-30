@@ -54,7 +54,7 @@ Using the pretrained model we tunned our few short siamese model to get more acc
 
 -Download the model siamese_model.h5 and crop_classification_model_fine_tuned.h5 and place it inside the working folder 
 
-[Drive link](https://drive.google.com/drive/folders/1SsqNUJ0blVwc3D76WwnOFH7pth5ydeJI?usp=sharing)]
+[Drive link](https://drive.google.com/drive/folders/1SsqNUJ0blVwc3D76WwnOFH7pth5ydeJI?usp=sharing)
 
 - Run the webapp 
 
